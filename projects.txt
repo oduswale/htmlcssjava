@@ -1,0 +1,16 @@
+ <!-- Projects Section -->
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Portfolio Website</h3>
+      <p>A responsive personal portfolio showcasing skills and projects.</p>
+    </div>
+    <div class="project">
+      <h3>Weather App</h3>
+      <p>A live weather application using API data.</p>
+    </div>
+    <div class="project">
+      <h3>Task Manager</h3>
+      <p>A to-do application with CRUD functionality.</p>
+    </div>
+  </section>

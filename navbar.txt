@@ -1,0 +1,8 @@
+section id="skills">
+    <h2>Skills</h2>
+    <div class="skills-container">
+      <div class="skill"><img src="html-logo.png" alt="HTML"><span>HTML</span></div>
+      <div class="skill"><img src="css-logo.png" alt="CSS"><span>CSS</span></div>
+      <div class="skill"><img src="js-logo.png" alt="JavaScript"><span>JavaScript</span></div>
+    </div>
+  </section>

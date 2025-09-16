@@ -1,0 +1,12 @@
+<section id="recommendations">
+    <h2>Recommendations</h2>
+    <ul id="recommendation-list">
+      <li>"John is very detail-oriented and dedicated." – Jane</li>
+      <li>"Excellent problem solver and team player." – Mike</li>
+      <li>"Creative thinker with strong coding skills." – Sarah</li>
+    </ul>
+
+    <h3>Add Recommendation</h3>
+    <textarea id="recommendation-input" placeholder="Write your recommendation..."></textarea>
+    <button onclick="addRecommendation()">Submit</button>
+  </section>
